@@ -1,0 +1,165 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="SPOR",1SPOR LİG TV HD
+http://46.105.233.106:8181/ntvspor.ts
+#EXTINF:0 group-title="SPOR",TRT SPOR HD
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+#EXTINF:0 group-title="SPOR",TRT SPOR SD
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8
+#EXTINF:0 group-title="SPOR",A SPOR HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:0 group-title="SPOR",A SPOR SD
+http://31.177.62.134:8003/play/s17
+#EXTINF:0 group-title="SPOR",LİG TV HD
+http://87.98.162.77:8000/tr1
+#EXTINF:0 group-title="SPOR",FB TV HD
+https://stream-09.ix7.dailymotion.com/dm/3/x21oo10/live-3.m3u8
+#EXTINF:0 group-title="SPOR",BJK TV HD
+https://stream-15.dc3.dailymotion.com/dm/3/x31omum/live-3.m3u8
+#EXTINF:0 group-title="SPOR",GS TV HD
+https://stream-06.ix7.dailymotion.com/dm/3/xne3bf/live-2.m3u8
+#EXTINF:0 group-title="SPOR",BS TV HD
+http://mob.dgntek.com/Bursaspor/bursaspor/chunklist.m3u8
+#EXTINF:0 group-title="SPOR",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:0 group-title="SPOR",İDMAN TV
+https://streams.livetv.az/azerbaijan/idman/playlist.m3u8
+#EXTINF:0 group-title="SPOR",CBC SPORT
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:0 group-title="SPOR",TİVİBUSPOR HD
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="SPOR",NTV SPOR
+http://46.105.233.106:8181/ntvspor.ts
+#EXTINF:0 group-title="SPOR",3 beIN FUTBOL HD
+http://46.105.233.106:8181/ntvspor.ts
+#EXTINF:0 group-title="SPOR",SÜPERSPOR TV HD
+http://46.105.233.106:8181/hls/ntvspor/playlist.m3u8
+#EXTINF:0 group-title="HABER",TELE 1 HD
+https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-3.m3u8
+#EXTINF:0 group-title="HABER",TELE 1 SD
+https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-2.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK HD (1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK HD (2)
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK HD (3)
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK SD
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0 group-title="HABER",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="HABER",HABER TURK
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/27.m3u8
+#EXTINF:0 group-title="HABER",HABER GLOBAL
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
+#EXTINF:0 group-title="HABER",TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:0 group-title="HABER",BLOOMBERG HT
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/21.m3u8 
+#EXTINF:0 group-title="HABER",TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+#EXTINF:0 group-title="HABER",A HABER (1)
+http://31.177.62.134:8003/play/s16
+#EXTINF:0 group-title="HABER",A HABER (2)
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:0 group-title="HABER",24 TV HD
+https://stream-08.dc3.dailymotion.com/dm/3/x648u9s/live-3.m3u8
+#EXTINF:0 group-title="HABER",24 TV SD
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:0 group-title="HABER",ULUSAL KANAL HD
+https://stream-07.ix7.dailymotion.com/dm/3/x6c7r09/live-3.m3u8
+#EXTINF:0 group-title="HABER",ULUSAL KANAL SD (1)
+https://stream-07.ix7.dailymotion.com/dm/3/x6c7r09/live-2.m3u8
+#EXTINF:0 group-title="HABER",ULUSAL KANAL SD (2)
+http://98.142.98.125:1935/ulusaltv/ulusaltv_aac/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D (1)
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D (2)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D (3)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D (4)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0 group-title="ULUSAL",STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="ULUSAL",EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 group-title="ULUSAL",SHOW TV
+https://streams2.livetv.az/turk/showtv/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",FOX TV
+https://streams.livetv.az/turk/fox_stream/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",TV8
+https://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",TV8.5
+http://clc.am/Tv8_5hd
+#EXTINF:0 group-title="ULUSAL",SHOW TURK
+http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
+#EXTINF:0 group-title="ULUSAL",UCAN KUS TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 group-title="ULUSAL",ATV (1)
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:0 group-title="ULUSAL",ATV (2)
+http://31.177.62.134:8003/play/s15
+#EXTINF:0 group-title="ULUSAL",360 TV
+https://stream-10.ix7.dailymotion.com/dm/3/x648uq8/live-3.m3u8
+#EXTINF:0 group-title="ULUSAL",FLASH TV
+http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+#EXTINF:0 group-title="ULUSAL",TLC
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 group-title="ULUSAL",TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:0 group-title="ULUSAL",D MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0 group-title="ULUSAL",SHOW MAX
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT BELGESEL (1)
+https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_700_av-p.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT BELGESEL (2)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 group-title="ULUSAL",BEYAZ TV HD
+https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-4.m3u8
+#EXTINF:0 group-title="ULUSAL",BEYAZ TV SD
+https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-2.m3u8
+#EXTINF:0 group-title="MUZIK",TRT MUZIK HD (1)
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1000_av-p.m3u8
+#EXTINF:0 group-title="MUZIK",TRT MUZIK HD (2)
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 group-title="MUZIK",TRT MUZIK SD
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_800_av-p.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL ARABESK
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL PERFORMANS
+https://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist_b2328000.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL TV
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL AKUSTIK
+https://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL KONSER
+https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TURK HD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TURK SD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",POWER HD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",POWER SD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TURK (1)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TURK (2)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TV HD (1)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TV HD (2)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TV SD
+https://live.dogannet.tv/NP2/DREAMTV/HLS/track_4_1000/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE TV
+https://stream-15.dc3.dailymotion.com/dm/3/x67c77j/live-2.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
+https://stream-15.dc3.dailymotion.com/dm/3/x67cguc/live-2.m3u8
